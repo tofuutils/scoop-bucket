@@ -1,8 +1,8 @@
 {
-    "version": "4.16.7",
+    "version": "4.16.8",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/tofuutils/tenv/releases/download/v4.16.7/tenv_v4.16.7_Windows_i386.zip",
+            "url": "https://github.com/tofuutils/tenv/releases/download/v4.16.8/tenv_v4.16.8_Windows_i386.zip",
             "bin": [
                 "tenv.exe",
                 "tofu.exe",
@@ -12,10 +12,10 @@
                 "tf.exe",
                 "atmos.exe"
             ],
-            "hash": "536d147f8532e9256efaa924cd3fc0ed8d3549e3c01eafae6eb6372b7a26f251"
+            "hash": "34e3290006ee12ae6139d2c3534ecafafc5d196a622b3b05c5d237e56edc7fb0"
         },
         "64bit": {
-            "url": "https://github.com/tofuutils/tenv/releases/download/v4.16.7/tenv_v4.16.7_Windows_x86_64.zip",
+            "url": "https://github.com/tofuutils/tenv/releases/download/v4.16.8/tenv_v4.16.8_Windows_x86_64.zip",
             "bin": [
                 "tenv.exe",
                 "tofu.exe",
@@ -25,10 +25,10 @@
                 "tf.exe",
                 "atmos.exe"
             ],
-            "hash": "008e636d0dd948652aa5fb1fe4c42a533f8f9505153b99d4abf99cb1ab091255"
+            "hash": "7a609dfa0ecd48cf38f82602d12380b9f7bb8d9a01ba05ba3211abf38bf92656"
         },
         "arm64": {
-            "url": "https://github.com/tofuutils/tenv/releases/download/v4.16.7/tenv_v4.16.7_Windows_arm64.zip",
+            "url": "https://github.com/tofuutils/tenv/releases/download/v4.16.8/tenv_v4.16.8_Windows_arm64.zip",
             "bin": [
                 "tenv.exe",
                 "tofu.exe",
@@ -38,7 +38,7 @@
                 "tf.exe",
                 "atmos.exe"
             ],
-            "hash": "48881ab5e3e12e0e54f61642d79817d62c0006206a9c79e169e7f6e8798a892b"
+            "hash": "7bc34932b2e40b32206c2bc7fe9f0dbafa362f2a1ff9d223e6d267e0c6e9b394"
         }
     },
     "homepage": "https://github.com/tofuutils/tenv",
